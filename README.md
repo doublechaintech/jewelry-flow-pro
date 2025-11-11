@@ -214,6 +214,10 @@ centralized backup in cloud
 ●  This system is centrally managed; route feature requests through the internal product queue so we can coordinate deployments and support.
 ```
 
+![Manage orders](./images/10-manage-orders.png)
+
+
+
 ## Contact
 
 If you are considering buy the software, please contact to **zhangxilai#doublechaintech.com** (replace # to @)
