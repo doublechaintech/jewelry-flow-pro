@@ -62,6 +62,7 @@ platform delivers out of the box.
 
 
 ### Current Features
+
 ```
 ● Clean Purchase Flow
 ● Process Core flow without internet
@@ -74,9 +75,9 @@ platform delivers out of the box.
 ```
 
 ### Roles
+
 ```
-● Advisor/Buyer： the persons buys advisor who purchase jewelry from another
-person
+● Advisor/Buyer： the persons buys advisor who purchase jewelry from another person
 ● Seller: the person who sell jewelry to advisor/store
 ```
 
@@ -93,17 +94,14 @@ person
 ### Once Authenticated
 
 ```
-● Advisor can start a purchasing
-process or managing orders or
-going to setting
+● Advisor can start a purchasing process or managing orders or going to setting
 ```
 
 ### Scan driver license
 
 ```
 ● All info extracted from driver license
-● Infomation needed for KYC/AML for
-jewelry transactions
+● Infomation needed for KYC/AML for jewelry transactions
 ```
 
 ### Input the bill info
@@ -117,15 +115,13 @@ ensure work with big numbers
 ### Sign the purchase order by parties
 
 ```
-● A purchase order generated for
-signatures
+● A purchase order generated for signatures
 ```
 
 ### Review the check info
 
 ```
-● Review check content with the
-seller
+● Review check content with the seller
 ```
 
 ### Print Check
@@ -138,8 +134,7 @@ seller
 ### Complete the order
 
 ```
-● A clear sign that the order has
-been done
+● A clear sign that the order has been done
 ```
 
 ### Hardware used for the app
@@ -161,8 +156,9 @@ been done
 
 ### Manage Advisors
 
+```
 ● Advisor can download a QR code as credential for events
-
+```
 
 ### Setup checking account for payment
 
