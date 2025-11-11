@@ -175,5 +175,5 @@ centralized backup in cloud
 
 ## Contact
 
-If you are considering buy the software, please contact to **zhangxilai#doublechaintech.com**
+If you are considering buy the software, please contact to **zhangxilai#doublechaintech.com** (replace # to @)
 
