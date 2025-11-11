@@ -11,7 +11,7 @@ table.
 
 ![Driver License Scan](./images/02-scan-driver-license.png)
 
-![Full Guide](./buying-software-proposal.pdf)
+[Full Guide](./buying-software-proposal.pdf)
 
 ---
 
