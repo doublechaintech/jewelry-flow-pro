@@ -88,17 +88,22 @@ table.
 
 
 ### The start page
+
 ```
 ● Authenticate Advisor to start using the software
 ● Advisor can use hardcopy QR code or QR code on Phone
 ● Once the device has been bound, internet access is NOT mandatory for purchase flow
 ```
 
+![Start Page](./images/01-start.png)
+
+
 ### Once Authenticated
 
 ```
 ● Advisor can start a purchasing process or managing orders or going to setting
 ```
+
 
 ### Scan driver license
 
@@ -107,6 +112,13 @@ table.
 ● Infomation needed for KYC/AML for jewelry transactions
 ```
 
+
+![Scan Driver License](./images/02-scan-driver-license.png)
+
+
+
+
+
 ### Input the bill info
 
 ```
@@ -114,17 +126,25 @@ table.
 ● Extra text for price input to ensure work with big numbers
 ```
 
+![Bill info](./images/03-bill-info.png)
+
 ### Sign the purchase order by parties
 
 ```
 ● A purchase order generated for signatures
 ```
 
+![Sign by both](./images/04-sign-for-both-parties.png)
+
+
 ### Review the check info
 
 ```
 ● Review check content with the seller
 ```
+![Prepare check](./images/05-prepare-check.png)
+
+
 
 ### Print Check
 
@@ -133,11 +153,18 @@ table.
 ● Printing stock label and purchase order are also options
 ```
 
+![Prepare check](./images/06-print-check.png)
+
+
+
 ### Complete the order
 
 ```
 ● A clear sign that the order has been done
 ```
+
+![Prepare check](./images/05-prepare-check.png)
+
 
 ### Hardware used for the app
 
@@ -147,7 +174,14 @@ table.
 ● Works on windows 10 / 11
 ```
 
+![Prepare check](./images/07-hardware-used.png)
+
+
+
 ### Advisor to view orders
+
+
+![Review local orders](./images/08-review-orders-locally.png)
 
 
 ## Buying Pro Cloud
