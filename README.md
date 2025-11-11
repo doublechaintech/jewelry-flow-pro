@@ -9,7 +9,7 @@ flow that stays online or offline, ties every transaction to compliance
 artifacts, and gets the payout check printed before the seller leaves the
 table.
 
-![Driver License Scan](./image/02-scan-driver-license.png)
+![Driver License Scan](./images/02-scan-driver-license.png)
 
 ![Full Guide](./buying-software-proposal.pdf)
 
