@@ -6,10 +6,6 @@ flow that stays online or offline, ties every transaction to compliance
 artifacts, and gets the payout check printed before the seller leaves the
 table.
 
-This document is an internal product overview—not an open-source manual. Use it
-to brief new event staff, hardware teams, and operations analysts on what the
-platform delivers out of the box.
-
 ---
 
 ## Outcomes We Promise
