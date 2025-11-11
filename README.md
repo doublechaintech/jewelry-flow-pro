@@ -1,10 +1,17 @@
 ## Jewelry Flow Pro
 
+
+
+
 Jewelry Flow Pro is the in-person buying stack our teams deploy at high-volume
 events. It replaces clipboards and ad‑hoc spreadsheets with a guided purchase
 flow that stays online or offline, ties every transaction to compliance
 artifacts, and gets the payout check printed before the seller leaves the
 table.
+
+![Driver License Scan](./image/02-scan-driver-license.png)
+
+![Full Guide](./buying-software-proposal.pdf)
 
 ---
 
