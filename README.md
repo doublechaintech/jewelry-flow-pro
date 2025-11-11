@@ -108,8 +108,7 @@ platform delivers out of the box.
 
 ```
 ● Input bill info
-● Extra text for price input to
-ensure work with big numbers
+● Extra text for price input to ensure work with big numbers
 ```
 
 ### Sign the purchase order by parties
